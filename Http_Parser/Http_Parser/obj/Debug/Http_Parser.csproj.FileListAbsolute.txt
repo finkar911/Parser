@@ -1,0 +1,9 @@
+C:\DaamIt\C#\Http_Parser\Http_Parser\bin\Debug\Http_Parser.exe.config
+C:\DaamIt\C#\Http_Parser\Http_Parser\bin\Debug\Http_Parser.exe
+C:\DaamIt\C#\Http_Parser\Http_Parser\bin\Debug\Http_Parser.pdb
+C:\DaamIt\C#\Http_Parser\Http_Parser\obj\Debug\Http_Parser.csprojResolveAssemblyReference.cache
+C:\DaamIt\C#\Http_Parser\Http_Parser\obj\Debug\Http_Parser.Form1.resources
+C:\DaamIt\C#\Http_Parser\Http_Parser\obj\Debug\Http_Parser.Properties.Resources.resources
+C:\DaamIt\C#\Http_Parser\Http_Parser\obj\Debug\Http_Parser.csproj.GenerateResource.Cache
+C:\DaamIt\C#\Http_Parser\Http_Parser\obj\Debug\Http_Parser.exe
+C:\DaamIt\C#\Http_Parser\Http_Parser\obj\Debug\Http_Parser.pdb
